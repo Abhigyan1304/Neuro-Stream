@@ -21,27 +21,26 @@ const Footer = () => {
                     <li className="menuItem">FAQ</li>
                 </ul>
                 <div className="infoText">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur.
+                    Made by
+                    Abhigyan Mehta(21BCE0992)
+                    Mehta Sahil Sanjay(21BCE3138)
+                    Shivam Raj(21BCE3727)
+
                 </div>
                 <div className="socialIcons">
                     <span className="icon">
-                        <a href="https://github.com/NikhileshAKT" target="_blank"> <FaGithub /> </a>
+                        <a href="https://github.com/Abhigyan1304" target="_blank"> <FaGithub /> </a>
                         
                     </span>
                     <span className="icon">
-                        <a href="https://www.instagram.com/nikhilesh_13/" target="_blank"><FaInstagram /></a>
+                        <a href="https://www.youtube.com/" target="_blank"><FaInstagram /></a>
                         
                     </span>
                     {/* <span className="icon">
                         <FaTwitter />
                     </span> */}
                     <span className="icon">
-                        <a href="https://www.linkedin.com/in/nikhilesh-anukunj-thakur-6a59a2201/" target="_blank"><FaLinkedin /></a>
+                        <a href="https://www.linkedin.com/in/abhigyan-mehta-484151247/" target="_blank"><FaLinkedin /></a>
                        
                     </span>
                 </div>
